@@ -19,4 +19,4 @@ Color                                            |  Gray
 :-----------------------------------------------:|:-------------------------:
 <img src="Images/clr_train_3.jpg" width="400" >  |  <img src="Images/gry_train_4.jpg" width="400" >
 
-This dataset was part of Springer hackathon held in Pune, India.
+This dataset was given for Springer hackathon held in Pune, India.
